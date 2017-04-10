@@ -5,7 +5,7 @@ $(document).ready(function(){
 
 	// on centralise la couleur du boutton cliqué pour pas etre emmerdé
 	var clickedButtonColor = "papayawhip";
-	// on récupere la couleur initiale du boutton 
+	// on récupere la couleur initiale du boutton
 	var baseButtonColor = $('button').css('background-color');
 
 
